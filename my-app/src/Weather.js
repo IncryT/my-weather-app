@@ -42,7 +42,7 @@ export default function Weather(props) {
     return (
       <div className="Weather">
         <a
-          href="https://www.shecodes.io/"
+          href="https://www.shecodes.io"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -80,7 +80,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/IncryT"
+            href="https://github.com/IncryT/my-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -88,7 +88,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://netlify.app/"
+            href="https://main--leafy-cendol-a323ea.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
